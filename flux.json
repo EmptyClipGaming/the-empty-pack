@@ -1,6 +1,7 @@
 {
   "name": "The Empty Pack",
   "slug": "the-empty-pack",
+  "repo": "EmptyClipGaming/the-empty-pack",
   "mods": {
     "client": {
       "forge": "10.13.2.1277"
