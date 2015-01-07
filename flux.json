@@ -1,4 +1,12 @@
 {
   "name": "The Empty Pack",
-  "slug": "the-empty-pack"
+  "slug": "the-empty-pack",
+  "mods": {
+    "client": {
+      "forge": "10.13.2.1277"
+    },
+    "server": {
+
+    }
+  }
 }
